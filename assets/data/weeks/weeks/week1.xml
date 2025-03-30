@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-week>
+<week name="THE VOID STARES BACK" chars="dad,bf,gf" sprite="week1">
+	<song>Reprise</song>
+	<song hide="true">Null Object</song>
+	<song hide="true">Haxelib Run</song>
+	<song hide="true">Factory Reset</song>
+</week>

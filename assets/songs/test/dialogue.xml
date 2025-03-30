@@ -1,0 +1,43 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default">
+	<!-- All characters -->
+	<char name="dad" char="dad" position="left" />
+	<char name="girlfriend" char="girlfriend" position="middle" />
+	<char name="boyfriend" char="boyfriend" position="right" />
+	<char name="niko" char="niko" position="middle" />
+
+
+	<!-- Lines -->
+	<line char="boyfriend" style="color: blue;">
+		bro the <format color="#FF0000" size="10">fuck</format> just happened
+	</line>
+
+
+	<line char="boyfriend">
+		oh wait i shouldn't speak English from real life 
+	</line>
+
+	<line char="boyfriend">
+		bop be beedebeep bop <format color="#FF0000" size="19">skibidi</format> bop 
+	</line>
+
+	<line char="niko">
+		VS Nafrox happens 15 years after the events of FNF
+BF and GF decide to have a last rap battle before- wait, what is that?
+Nafrox, which is now a powerful hacker, decides to delete FNF to stop making songs easier. "No but really, the songs are now only 1 note and then it's the end. Let's bring back the old hard version of things, shall we? No? Well I see 1 other thing left."
+Nafrox first tries to delete GF but kills her instead because of her demon powers preventing the deletetion.
+Then, he goes to the main protagonist, BF. "What happened to him? Tf happened to his hat? Anyways, let's end this.
+Nafrox succeds just to come back to the real world and GUESS WHO WAS WAITING FOR HIM.
+I think you know who it is... No? UHFRIDO-
+Anyways, Fridox tries to undo the deletetion but fails and die- why is nothing moving? Oh, since Fridox is the main character and the mod's creator, he can't die. (Yknow, plot armor.)
+And since he acquired god powers, he rewinds time to 15 years in the past... 2021.
+After "some" fights, he meets Nafrox before he acquired hacker powers.
+Anyways, Fridox kills Nafrox and goes back to 2036 with a peaceful ending. Wow, that was long.
+	</line>
+
+	<line char="boyfriend">
+		your a poopy head
+	</line>
+
+
+</dialogue>

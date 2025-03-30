@@ -1,0 +1,18 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="VS Nafrox Credits" desc="The creators of this mod.">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+	<credit name="Fridox" desc="Director, Artist, Concept Art, Mod Idea" icon="fridoxi" size="130" url="https://www.youtube.com/@fridoxtheleemon"/>
+	<credit name="Lori" desc="Basically the entire source code, Artist, Animator, Musician, Charter of all songs" icon="lori" size="130" url="https://www.youtube.com/@lorigamer8736"/>
+	<credit name="CoolSunnyBoi" desc="Helped Lori with understanding CE's source and other not major programming" icon="sunny" size="130" url="https://www.youtube.com/channel/UCWagaz5UYvXq7TLP7E1A_0Q"/>
+	<credit name="AudreyTheStarlight" desc="Composer of the main menu, Null Object Audrey Remix and some more" icon="audreyv2" size="130" url="https://www.youtube.com/@AudreyTheStarlight"/>
+	<menu name="Beta Testers" desc="My trustworthy beta testers!">
+		<credit name="Chaz" desc="very incredible dude" icon="chaz" size="130" url=""/>
+		<credit name="Shroomy" desc="LOVELY GAL <333" icon="shroomy" size="130" url="https://www.youtube.com/@STATIC.MEMORY178"/>
+	</menu>
+	<menu name="Other" desc="Things like scripts">
+		<credit name="Syrup" desc="Made the V-Slice sound tray" icon="syrup" size="130" url=""/>
+	</menu>
+
+
+</menu>

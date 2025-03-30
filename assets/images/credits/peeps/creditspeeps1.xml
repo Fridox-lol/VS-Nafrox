@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditspeeps1.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peeps10000" x="2" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10001" x="2" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10002" x="2" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10003" x="2" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10004" x="479" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10005" x="479" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10006" x="479" y="2" width="475" height="268"/>
+	<SubTexture name="peeps10007" x="479" y="2" width="475" height="268"/>
+</TextureAtlas>

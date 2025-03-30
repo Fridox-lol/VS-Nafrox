@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nafroxmainmenu_static.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticshit0000" x="2" y="2" width="1294" height="1024" frameX="-66" frameY="-61" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0001" x="2" y="2" width="1294" height="1024" frameX="-66" frameY="-61" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0002" x="2" y="2" width="1294" height="1024" frameX="-66" frameY="-61" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0003" x="2" y="2" width="1294" height="1024" frameX="-66" frameY="-61" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0004" x="1298" y="2" width="1248" height="1015" frameX="-98" frameY="-83" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0005" x="1298" y="2" width="1248" height="1015" frameX="-98" frameY="-83" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0006" x="1298" y="2" width="1248" height="1015" frameX="-98" frameY="-83" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0007" x="1298" y="2" width="1248" height="1015" frameX="-98" frameY="-83" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0008" x="2548" y="2" width="1398" height="980" frameX="0" frameY="-75" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0009" x="2548" y="2" width="1398" height="980" frameX="0" frameY="-75" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0010" x="2548" y="2" width="1398" height="980" frameX="0" frameY="-75" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0011" x="2548" y="2" width="1398" height="980" frameX="0" frameY="-75" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0012" x="2" y="1028" width="1223" height="1065" frameX="-69" frameY="0" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0013" x="2" y="1028" width="1223" height="1065" frameX="-69" frameY="0" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0014" x="2" y="1028" width="1223" height="1065" frameX="-69" frameY="0" frameWidth="1398" frameHeight="1098"/>
+	<SubTexture name="staticshit0015" x="2" y="1028" width="1223" height="1065" frameX="-69" frameY="0" frameWidth="1398" frameHeight="1098"/>
+</TextureAtlas>

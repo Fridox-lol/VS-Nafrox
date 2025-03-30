@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nafrox_week.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nafroxmenu_normal0000" x="2" y="2" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0001" x="1000" y="2" width="996" height="906" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0002" x="1998" y="2" width="996" height="907" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0003" x="2996" y="2" width="996" height="908" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0004" x="3994" y="2" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0005" x="3994" y="2" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0006" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0007" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0008" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0009" x="5990" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0010" x="6988" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0011" x="6988" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0012" x="5990" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0013" x="5990" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0014" x="5990" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0015" x="5990" y="2" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0016" x="2" y="915" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_normal0017" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0018" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0019" x="4992" y="2" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0020" x="1000" y="915" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0021" x="2996" y="2" width="996" height="908" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0022" x="1998" y="2" width="996" height="907" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0023" x="2" y="2" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0024" x="1998" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0025" x="2996" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0026" x="3994" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0027" x="3994" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0028" x="2996" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_normal0029" x="2" y="2" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0000" x="4992" y="915" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0001" x="5990" y="915" width="996" height="906" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0002" x="6988" y="915" width="996" height="907" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0003" x="2" y="1828" width="996" height="908" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0004" x="1000" y="1828" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0005" x="1000" y="1828" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0006" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0007" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0008" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0009" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0010" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0011" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0012" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0013" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0014" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0015" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0016" x="2996" y="1828" width="996" height="911"/>
+	<SubTexture name="nafroxmenu_select0017" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0018" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0019" x="1998" y="1828" width="996" height="910" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0020" x="1000" y="1828" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0021" x="3994" y="1828" width="996" height="909" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0022" x="4992" y="1828" width="996" height="907" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0023" x="5990" y="1828" width="996" height="906" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0024" x="5990" y="1828" width="996" height="906" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0025" x="6988" y="1828" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0026" x="6988" y="1828" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0027" x="6988" y="1828" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0028" x="6988" y="1828" width="996" height="905" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+	<SubTexture name="nafroxmenu_select0029" x="5990" y="1828" width="996" height="906" frameX="0" frameY="0" frameWidth="996" frameHeight="911"/>
+</TextureAtlas>

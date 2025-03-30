@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pauseUI.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bluecancel0000" x="2" y="2" width="198" height="199"/>
+	<SubTexture name="bluereplay0000" x="202" y="2" width="198" height="199"/>
+	<SubTexture name="cancelyellow0000" x="2" y="203" width="198" height="199"/>
+	<SubTexture name="yellowreplay0000" x="202" y="203" width="207" height="199"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay0000" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0001" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0002" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0003" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0004" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0005" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0006" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0007" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0008" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0009" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0010" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0011" x="2" y="2" width="511" height="198"/>
+	<SubTexture name="freeplay0012" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0013" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0014" x="2" y="202" width="511" height="198"/>
+	<SubTexture name="freeplay0015" x="2" y="202" width="511" height="198"/>
+</TextureAtlas>

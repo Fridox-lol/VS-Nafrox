@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nafrox100trophy.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trophy0000" x="2" y="2" width="130" height="134" frameX="-45" frameY="-53" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0001" x="2" y="2" width="130" height="134" frameX="-45" frameY="-53" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0002" x="134" y="2" width="135" height="144" frameX="-40" frameY="-43" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0003" x="134" y="2" width="135" height="144" frameX="-40" frameY="-43" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0004" x="271" y="2" width="147" height="154" frameX="-28" frameY="-33" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0005" x="2" y="158" width="158" height="168" frameX="-17" frameY="-19" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0006" x="162" y="158" width="171" height="181" frameX="-4" frameY="-6" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0007" x="335" y="158" width="175" height="187"/>
+	<SubTexture name="trophy0008" x="2" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0009" x="2" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0010" x="2" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0011" x="2" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0012" x="134" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0013" x="134" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0014" x="134" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+	<SubTexture name="trophy0015" x="134" y="347" width="130" height="132" frameX="-45" frameY="-55" frameWidth="175" frameHeight="187"/>
+</TextureAtlas>

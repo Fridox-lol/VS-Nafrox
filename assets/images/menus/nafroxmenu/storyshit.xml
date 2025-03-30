@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storyshit.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storymode0000" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0001" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0002" x="210" y="2" width="209" height="74" frameX="-5" frameY="0" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0003" x="210" y="2" width="209" height="74" frameX="-5" frameY="0" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0004" x="2" y="78" width="222" height="75"/>
+	<SubTexture name="storymode0005" x="2" y="78" width="222" height="75"/>
+	<SubTexture name="storymode0006" x="226" y="78" width="209" height="72" frameX="-5" frameY="-2" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0007" x="226" y="78" width="209" height="72" frameX="-5" frameY="-2" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0008" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0009" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0010" x="2" y="155" width="206" height="68" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0011" x="2" y="155" width="206" height="68" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0012" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+	<SubTexture name="storymode0013" x="2" y="2" width="206" height="66" frameX="-8" frameY="-4" frameWidth="222" frameHeight="75"/>
+</TextureAtlas>

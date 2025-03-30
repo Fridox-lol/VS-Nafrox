@@ -1,0 +1,13 @@
+<!DOCTYPE codename-mod-options>
+<menu name="VS Nafrox Options" desc="You may change your experience here.">
+	<checkbox id="notifications" name="Disable Notifications" desc="If checked, you won't receive a notification on your computer when you enter a song. Welp, there goes the immersivity."/>
+	<checkbox id="shaders" name="Disable Shaders" desc="If checked, the game will automatically disable these pesky shaders that cause lag on the songs you're playing."/>
+	<checkbox id="warning" name="Warning Screen Skip" desc="If checked, the warning screen that appears every time you open the application will stop appearing, skipping to the title screen."/>
+	<checkbox id="frame" name="Hide Framerate" desc="If checked, the framerate, memory and other things text on the top left will be hidden from all instances (To make it visible again, uncheck it and RESTART YOUR GAME for it to take effect)."/>
+	<choice id="splashes" name="Splash Style" desc="There really is no reason for this to exist, but HEY, customization!!">
+		<value name="OG" value="default"/>
+		<value name="Nafrox" value="nafrox"/>
+		<value name="Secret" value="secret"/>
+		<value name="Nothing" value="nothing"/>
+	</choice>
+</menu>

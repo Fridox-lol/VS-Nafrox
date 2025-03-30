@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scaryredstatic.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scaryredstatic0000" x="2" y="2" width="1280" height="720"/>
+	<SubTexture name="scaryredstatic0001" x="1284" y="2" width="1280" height="720"/>
+	<SubTexture name="scaryredstatic0002" x="2566" y="2" width="1280" height="720"/>
+	<SubTexture name="scaryredstatic0003" x="2" y="724" width="1280" height="720"/>
+</TextureAtlas>
